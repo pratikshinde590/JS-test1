@@ -12,16 +12,16 @@
 
 ## Test Script
 
-The test script (`test1.py`), (`test2.py`) is designed to check the correctness of your programs. It imports the functions from the respective program files and performs tests using predefined input values.
+The test script (`test1.js`), (`test2.js`) is designed to check the correctness of your programs. It imports the functions from the respective program files and performs tests using predefined input values.
 
 ## Follow these steps to run the test script:
 
 1. For Each program, there are 20 marks.
-2. Do not make changes to these files (`test1.py`), (`test2.py`)
+2. Do not make changes to these files (`test1.js`), (`test2.js`)
 3. Execute the test script by running the command:
 
     ```bash
-    python program1.py
+    python program1.js
     
     ```
 
